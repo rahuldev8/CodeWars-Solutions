@@ -17,7 +17,7 @@ Note: base is a non-negative number, factor is a positive number.*/
 #include <stdbool.h>
 
 bool check_for_factor(int base, int factor) {
-  // your code here
+  
   //checking for mod of given inputs and returning true or falase based on their remainder
   bool ans = base%factor?false:true;
   return ans;
