@@ -21,8 +21,7 @@ public class Kata {
      return ans;
      }
     else return x;
-    
-     // Your code here.
+   
     
   }
   
