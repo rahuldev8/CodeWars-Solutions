@@ -14,7 +14,7 @@ Your goal in this kata is to determine which phrase the girls would say for a fl
 public class Sid {
     public static String howMuchILoveYou(int nb_petals) {
     
-    //your code here :)
+   
       String[] mess = {"I love you","a little","a lot","passionately","madly","not at all"};
       String ans = mess[(nb_petals-1)%6];
     return ans;
