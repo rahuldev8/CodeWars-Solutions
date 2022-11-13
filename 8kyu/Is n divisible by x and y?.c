@@ -11,7 +11,7 @@ Examples:
 
 bool isDivisible(int n, int x, int y) {
 
-    // <---- hajime!
+    
   if(n%x == 0 && n%y == 0) return 1;
   else return 0;
 
