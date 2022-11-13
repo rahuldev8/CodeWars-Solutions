@@ -4,7 +4,7 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 
 public class EvenOrOdd {
     public static String even_or_odd(int number) {
-        //Place code here
+        
       String ans;
       if(number%2 == 0)ans = "Even";
       else ans = "Odd";
