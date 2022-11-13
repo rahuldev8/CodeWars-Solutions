@@ -13,7 +13,7 @@ The input will not be 0.*/
 
 public class Num {
   public static int nthEven(int n) {
-  // write your code here
+  
     int ans = (n*2)-2;
     return ans;
   }
