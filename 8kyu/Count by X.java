@@ -12,7 +12,7 @@ countBy(2,5)  should return {2,4,6,8,10}*/
 
 public class Kata{
   public static int[] countBy(int x, int n){
-    // Your code here
+   
     int[] ans = new int[n];
     for(int i=0;i<n;i++)
       {
