@@ -9,6 +9,6 @@ public class RemoveChars {
       String ans = str.substring(1,str.length()-1);
       return ans;
 
-        // your code here
+      
     }
 }
